@@ -1,0 +1,66 @@
+﻿{
+    "name":"Greyskull Analytics",
+    "dataColors":[
+       "#5f00c5",
+       "#f2c811",
+       "#00adcc",
+       "#636363",
+       "#e24e08",
+       "#D3D3D3"
+    ],
+    "bad":"#C40000",
+    "neutral":"#f2c811",
+    "good":"#65C400",
+    "minimum":"#0000C4",
+    "center":"#5f00C5",
+    "maximum":"#C40000",
+    "background":"#FFFFFF",
+    "tableAccent":"#5f00c5",
+    "textClasses":{
+       "title":{
+          "fontFace":"Segoe UI Light",
+          "color":"#636363",
+          "fontSize":9
+       },
+       "callout":{
+          "fontFace":"Segoe UI",
+          "color":"#000000"
+       },
+       "label":{
+          "fontFace":"Segoe UI",
+          "color":"#000000",
+          "fontSize":9
+       },
+       "header":{
+          "fontFace":"Segoe UI Light",
+          "color":"#636363",
+          "fontSize":9
+       }
+    },
+    "visualStyles":{
+       "page":{
+          "*":{
+             "background":[
+                {
+                   "transparency":0,
+                   "image":{
+                      "name":"Background",
+                      "scaling":"Fit",
+                      "url":"https://drive.google.com/uc?id=1d-kb590V_f0jSTXdXN-7h_ggFWukBa0h"
+                   }
+                }
+             ],
+             "outspace":[
+                {
+                   "transparency":0,
+                   "image":{
+                      "name":"Wallpaper",
+                      "scaling":"Fit",
+                      "url":"https://drive.google.com/uc?id=1BYkj_r8wKY_m0J4Lcc8uFUrg131Ccmm8"
+                   }
+                }
+             ]
+          }
+       }
+    }
+ }
